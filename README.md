@@ -11,9 +11,18 @@
 🎓 Currently engaged in academic pursuits, I actively contribute to the Git community by sharing lab works related to my studies at TU (Tribhuvan University). Additionally, I'm working on projects for both minor and major subjects, with a focus on practical applications and real-world problem-solving.
 
 🚀 My GitHub journey is fueled by the intention to collaborate, learn, and contribute. Feel free to explore my repositories, and let's connect to discuss anything from coding challenges to cutting-edge technologies!
-#Education
-![IOE PULCHOWK CAMPUS](https://github.com/Nectar1213/profile_picture/blob/main/pulchow.png)
+
 Happy coding! 🚀✨
+
+<!--Add your education here-->
+# Education
+\
+IOE, Pulchowk Campus
+
+
+
+
+![IOE PULCHOWK CAMPUS](https://github.com/Nectar1213/profile_picture/blob/main/pulchow.png)
 
 <!-- Add your social media handles -->
 ### Connect with me:
