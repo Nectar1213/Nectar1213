@@ -1,7 +1,4 @@
-Certainly! Here's an introduction for your GitHub profile:
-
----
-
+Hello Everyone  It's Amrit
 👋 Hi there! I'm Amrit Sarki, a passionate tech enthusiast with a knack for development and a strong desire for continuous learning. I thrive on exploring the intersection of technology, creativity, and innovation.
 
 💻 My skill set encompasses various aspects of software development, and I'm particularly enthusiastic about diving into the world of machine learning. I enjoy leveraging algorithms to tackle complex problems and am always eager to expand my knowledge in this evolving field.
