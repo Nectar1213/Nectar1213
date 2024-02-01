@@ -19,10 +19,7 @@ Happy coding! 🚀✨
 <!-- Add your social media handles -->
 ### Connect with me:
 
-[![LinkedIn](https://github.com/Nectar1213/profile_picture/blob/main/channels4_profile.jpg)](https://www.linkedin.com/in/amrit-sarki-07a178228/)
+[![LinkedIn](https://github.com/Nectar1213/profile_picture/blob/main/circle-linkedin-512.webp)](https://www.linkedin.com/in/amrit-sarki-07a178228/)
 [![Facebook](https://github.com/Nectar1213/profile_picture/blob/main/download.png)](https://www.facebook.com/profile.php?id=100029194809819)
 
 
-
-[![LinkedIn](url_to_linkedin_icon.png)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](url_to_twitter_icon.png)](https://twitter.com/your-twitter-handle)
