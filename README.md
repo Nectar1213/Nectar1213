@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Web_Developer-blue?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-AI_Enthusiast-brightgreen?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Ethical_Hacker-black?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Competitive_Programmer-yellow?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-Content_Writer-green?style=flat-square&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/-YouTuber-red?style=flat-square&logo=youtube&logoColor=white">
+
 </p>
 
 ---
