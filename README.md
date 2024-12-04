@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AmritK123&theme=radical" width="75%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nectar1213&theme=radical" width="75%" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ## 🌟 Language Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritK123&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmritK123&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nectar1213&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nectar1213&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
