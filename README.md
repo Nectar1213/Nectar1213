@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritK123&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritK123&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nectar1213&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nectar1213&theme=radical" width="48%" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🚀 Contribution Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmritK123&theme=radical" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nectar1213&theme=radical" width="75%" />
 </p>
 
 <p align="center">
