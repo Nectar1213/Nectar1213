@@ -1,57 +1,88 @@
+# Hey there! I'm Amrit Sarki 🚀
 
-
-# Hey there! I'm Amrit Sarki. 
-
-
-<h3> 👨🏻‍💻 About Me </h3>
-I'm a passionate web developer with a keen interest in  AI, Web Development, Algorithms, and ethickal hacking. Here, you'll find a collection of projects, contributions, and code snippets that reflect my journey in the world of technology. <br> <br>
-
-- 🔭 &nbsp; I’m currently Learning AI.
-- 🤔 &nbsp; I like to grind my mind into thinking of creative ways to solve any given problem. I like competitive programming. You can find me on leetcode.
-- 📖 &nbsp; I am currently studying Electronics, Communication and Information Engineering.
-- 🏢 &nbsp; I can work comfortably as a Front-end Web Developer. you can see my portfolio website for reference as project below.
-.
-
-<h3>Tech Stack</h3>
-
-- 💻 &nbsp; Python | C  | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django
-- © &nbsp; MySQL  | Xampp
-- 👨‍💻&nbsp; Git | LaTeX
-- 🖥 &nbsp; Canva| Photoshop | Figma
-
-<h3> 🎨 Hobbies </h3>
-
-Besides coding, I have a variety of hobbies that keep me busy:
-
-- 📚 Reading: I'm an avid reader, with interests ranging from biography to life lessons .
-- 🎮 Gaming: Occasionally, I unwind by playing video games, especially e sports like football , pubg and freefire.
-- 🎥 Watching Film: I  find watching Movies and web Series refreshing .
-- 📝 Writing: While I used to write blog posts, I still enjoy jotting down thoughts and ideas.
-- 🙏 Namaste: I simply say namaste and let them go to stubborn people . I hate illogical people
-
-<hr>
-
-
-<br>
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nectar1213&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nectar1213/github-readme-stats)
-<hr>
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-
-&nbsp; <a href="https://www.linkedin.com/in/amrit-sarki-07a178228/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:077bei049.tamrit@pcampus.edu.np" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Web_Developer-blue?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-AI_Enthusiast-brightgreen?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ethical_Hacker-black?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Competitive_Programmer-yellow?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
-<hr>
 
+---
 
-## Visitor's Count:
-![Visitor's Count](https://profile-counter.glitch.me/%7Btangsang2003%7D/count.svg)
+## 👨🏻‍💻 About Me 
+- 🔭 Learning: **AI & ML**  
+- 🤔 Mindset: Solve problems creatively 🧠  
+- 📖 Student: **Electronics, Communication & Info Engineering**  
+- 🏢 Expertise: **Front-End Dev** | Portfolio below 👇  
+- 🏆 Passion: **Competitive Coding** on LeetCode 🧮  
 
+---
 
+## 🛠 Tech Stack
+
+| 💻 Programming | 🌐 Front-End | 🗃 Databases | 🤖 AI/ML | Tools  | 🎨 Design    |
+|----------------|-------------|-------------|----------|--------|-------------|
+| Python         | HTML        | MySQL       | TensorFlow | Git    | Canva       |
+| C              | CSS         | SQLite      | PyTorch    | LaTeX  | Photoshop   |
+| C++            | Bootstrap   |             | Keras      |        | Figma       |
+|                | JavaScript  |             |            |        |             |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmritK123&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritK123&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🚀 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmritK123&theme=radical" width="75%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AmritK123&theme=radical" width="75%" />
+</p>
+
+---
+
+## 🌟 Language Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritK123&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmritK123&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 📚 Reading: Biographies, tech books, and life lessons  
+- 🎮 Gaming: eSports like PUBG, FIFA, and Free Fire  
+- 🎥 Watching: Movies & web series  
+- 📝 Writing: Blog posts, thoughts, and notes  
+- 🙏 Namaste: Handle stubborn people gracefully  
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrit-sarki-07a178228/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+  </a>
+  <a href="mailto:077bei049.amrit@pcampus.edu.np" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
+  </a>
+</p>
+
+---
+
+## Visitor's Count  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{AmritK123}/count.svg" />
+</p>
